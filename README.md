@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m Saurav Gupta<br><br>I am a passionate Android developer in Kotlin, Jetpack Compose, and learning to building intuitive, user-friendly mobile applications.
+<h2 align="left">👋 Hi, I’m Saurav Gupta<br><br>I am a passionate Android developer in Kotlin, Jetpack Compose, and learning to build intuitive, user-friendly mobile applications.
 
 ###
 
