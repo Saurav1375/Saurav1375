@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m Saurav Gupta<br><br>I am a passionate Android developer in Kotlin, Jetpack Compose, and learning to build intuitive, user-friendly mobile applications.
+<h2 align="left">👋Hi, I’m Saurav Gupta<br><br>I am a passionate Android developer in Kotlin, Jetpack Compose, and learning to build intuitive, user-friendly mobile applications.
 
 ###
 
@@ -44,6 +44,10 @@
 </div>
 
 ###
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Saurav1375&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
