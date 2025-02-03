@@ -29,6 +29,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 # 📊 GitHub Stats:
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Saurav1375&label=Profile%20views&color=blue&abbreviated=true&style=for-the-badge" alt="ask-03" /> </p>
+
 ![](https://github-readme-stats.vercel.app/api?username=Saurav1375&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Saurav1375&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav1375&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
